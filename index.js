@@ -2,14 +2,14 @@
 //-----------------------------------
 // Farm inventory
 //-----------------------------------
+/*
+demo for Functional Programming
+*/
 
 const inventory = [
     { color: 'red', weight: 155 },
     { color: 'green', weight: 120 },
-    { color: 'green', weight: 130 },
-    {
-        'Filename': 'green'
-    }
+    { color: 'green', weight: 130 }
 ];
 
 //----------------------------------
